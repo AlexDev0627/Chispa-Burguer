@@ -1,5 +1,5 @@
 import Navbar from './components/navbar';
-// import Hero from './components/hero';
+import Hero from './components/hero';
 import BurgerScrollHero from './components/burguerScrollHero/burguerScrollHero';
 
 
@@ -9,6 +9,7 @@ export default function App() {
     <>
     <Navbar />
     <BurgerScrollHero/>
+    <Hero />
     </>
   );
 }
