@@ -30,11 +30,11 @@ export default function Navbar() {
           </div>
 
 
-          {/* <div className="hidden md:block">
+           <div className="hidden md:block">
             <button className="bg-orange-500 hover:bg-orange-600 text-white px-5 py-2 rounded-full font-semibold transition-colors duration-200 shadow-md shadow-orange-200 cursor-pointer">
               Reservar
             </button>
-          </div> */}
+          </div> 
 
         </div>
       </div>
